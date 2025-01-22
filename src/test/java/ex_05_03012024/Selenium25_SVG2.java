@@ -1,4 +1,4 @@
-package ex_05_03012025;
+package ex_05_03012024;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import java.sql.Driver;
 import java.util.List;
 
 public class Selenium25_SVG2 {

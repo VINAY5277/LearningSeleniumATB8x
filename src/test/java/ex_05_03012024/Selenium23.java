@@ -1,4 +1,4 @@
-package ex_05_03012025;
+package ex_05_03012024;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.edge.EdgeDriver;

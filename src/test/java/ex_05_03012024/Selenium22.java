@@ -1,17 +1,9 @@
-package ex_05_03012025;
+package ex_05_03012024;
 
-import org.assertj.core.error.ShouldBeEqualIgnoringSeconds;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
-
-import java.sql.Driver;
-import java.time.Duration;
 
 public class Selenium22 {
 
